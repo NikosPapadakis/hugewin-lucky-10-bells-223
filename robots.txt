@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hugewin-lucky-10-bells.github.io/sitemap.xml
